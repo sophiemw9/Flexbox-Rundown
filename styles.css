@@ -199,6 +199,12 @@ button:active {
     width: 70%;
 }
 
+.button-header {
+    font-family: "buffo", sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
 /* footer */
 
 footer {
